@@ -61,4 +61,4 @@ A validação dos campos foi implementada **manualmente** no código, sem o uso 
 
 # 👩‍💻Equipe
 - [Giovanna Amaral](https://github.com/GiovannaAmaral26)
-- [Natáia Lins](https://github.com/natalia-lins)
+- [Natália Lins](https://github.com/natalia-lins)
