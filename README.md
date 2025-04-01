@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sistema de Gerenciamento de Produtos
+# 💻 Sistema de Gerenciamento de Produtos
 Este projeto foi desenvolvido utilizando Node.js com o objetivo de explorar e implementar o padrão de arquitetura MVC (Model-View-Controller), garantindo uma estrutura organizada e escalável para a aplicação. Além disso, foi aplicada a validação de campos para garantir a integridade dos dados inseridos.
 
  # 💡Usados para a construção
@@ -56,3 +56,9 @@ A validação dos campos foi implementada **manualmente** no código, sem o uso 
 - **Nome do produto** : Deve ter pelo menos 3 caracteres.
 - **Preço** : Deve ser maior que 0 (valor positivo).
 - **Estoque** : Não pode ser negativo (maior ou igual a 0).
+
+
+
+# 👩‍💻Equipe
+- [Giovanna Amaral](https://github.com/GiovannaAmaral26)
+- [Natáia Lins](https://github.com/natalia-lins)
