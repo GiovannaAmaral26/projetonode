@@ -41,11 +41,11 @@ Durante o desenvolvimento, algumas dificuldades foram encontradas:
 
 **As soluções adotadas incluíram :**
 
-Uso da documentação oficial e tutoriais para o desenvolvimento.
+-Uso da documentação oficial e tutoriais para o desenvolvimento.
 
-Uso de mensagens de erro para facilitar o debugging.
+-Uso de mensagens de erro para facilitar o debugging.
 
-Testes para garantir a integridade das funções implementadas.
+-Testes para garantir a integridade das funções implementadas.
 
 # 🧠 Como usar ?
 
