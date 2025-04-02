@@ -29,6 +29,24 @@ As múltiplas formas de utilização do MVC foram aplicadas da seguinte maneira:
 
 - Separação de responsabilidades para garantir código reutilizável e de fácil manutenção.
 
+# 📌 Principais Dificuldades e Soluções
+
+Durante o desenvolvimento, algumas dificuldades foram encontradas:
+
+**Gerenciamento de Rotas Dinâmicas :** Foi necessário estruturar bem os controladores e middlewares para evitar conflitos.
+
+**Implementação da Validação :** A escolha da biblioteca mais adequada e a correta aplicação das regras exigiram ajustes para garantir um fluxo eficiente.
+
+**Conexão com o Banco de Dados :** O manuseio adequado das conexões exigiu otimizações para evitar falhas em consultas simultâneas.
+
+**As soluções adotadas incluíram :**
+
+Uso da documentação oficial e tutoriais para o desenvolvimento.
+
+Uso de mensagens de erro para facilitar o debugging.
+
+Testes para garantir a integridade das funções implementadas.
+
 # 🧠 Como usar ?
 
 1️⃣ **Clone este repositório:**
@@ -47,7 +65,7 @@ npm start
 
 4️⃣ **Acesse a aplicação pelo navegador em:** ``` http://localhost:3000 ```
 
-## Validação dos Campos
+# ✅ Validação dos Campos
 
 A validação dos campos foi implementada **manualmente** no código, sem o uso de bibliotecas externas como o **express-validator**. No controlador da aplicação, são realizadas verificações simples para garantir que os dados inseridos sejam válidos antes de serem processados.
 
@@ -57,8 +75,14 @@ A validação dos campos foi implementada **manualmente** no código, sem o uso 
 - **Preço** : Deve ser maior que 0 (valor positivo).
 - **Estoque** : Não pode ser negativo (maior ou igual a 0).
 
+# 🎯 Testes
+Imagens dos testes realizados
+
+- [Testes](https://github.com/GiovannaAmaral26/projetonode/tree/main/Testes)
 
 
-# 👩‍💻Equipe
+
+# 👩‍💻 Equipe
 - [Giovanna Amaral](https://github.com/GiovannaAmaral26)
 - [Natália Lins](https://github.com/natalia-lins)
+
